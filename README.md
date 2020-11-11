@@ -43,6 +43,13 @@ The goal of this project is automation without unnecessary complexity. After all
 - Explore building into a cheap IKEA hob to bring cost down
 - Design new maker-friendly easily printable parts 
 
+### The OnionBot idea was developed through a research project at Imperial College London
+
+Check out the paper for technical details in much more depth!
+
+[OnionBot: A System for Collaborative Computational Cooking - ArXiv](https://arxiv.org/pdf/2011.05039.pdf)
+
+![arxiv](https://user-images.githubusercontent.com/32883278/98860117-18b3ea00-245b-11eb-976e-163721560a50.png)
 
 ### Interested in building a cooking automation robot?
 
