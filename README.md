@@ -12,8 +12,7 @@
 
 3D files for building an OnionBot
 
-[See it in action on YouTube](https://youtu.be/W4utRCyo5C4) | 
-[Read more about the project on DesignSpark](https://www.rs-online.com/designspark/student-innovation-onionbot-building-a-robot-sous-chef)
+[See it in action on YouTube](https://youtu.be/W4utRCyo5C4)
 
 ### About 
 OnionBot tackles the challenge of automating pan cooking. Cooking progress is tracked by a Raspberry Pi 4, using a wide-angle camera and thermal camera mounted above the induction cooker. Recipes are processed by a Python script, and a servo motor directly drives the stove control knob to adjust the power setting.
